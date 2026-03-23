@@ -1,22 +1,16 @@
-# AI in GRC
+# Vendor Risk
 
-Exploring how AI can enhance Governance, Risk, and Compliance (GRC) workflows.
+## Challenges
+- Long questionnaires
+- Inconsistent answers
+- Manual review process
 
-## Focus Areas
-- Audit readiness
-- Vendor risk management
-- Policy management
-- Evidence collection
-- GRC automation
+## Ideas
+- Standardized intake forms
+- Risk scoring models
+- Continuous monitoring
 
-## Why this repo
-GRC today is often manual, fragmented, and hard to scale. This repo explores how AI and structured data can improve efficiency, reduce friction, and strengthen trust.
-
-## Current Work
-- Building structured approaches to audit evidence
-- Exploring AI-assisted vendor risk reviews
-- Mapping GRC workflows to automation opportunities
-
-## Author
-Nikita Gupta  
-GRC | Security | AI in Governance
+## AI Opportunities
+- Summarizing vendor responses
+- Highlighting gaps
+- Risk classification
